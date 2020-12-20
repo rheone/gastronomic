@@ -12,40 +12,40 @@ P.S. I'm happy to get Pull-Requests or Issues for corrections, updates, or even 
 
 ### Breads
 
--  [Chocolate Chip Banana Nut Muffins](\recipes\breads\ChocolateChopBananaNutMuffins.md)
--  [Dinner Rolls](\recipes\breads\DinnerRolls.md)
--  [Monkey Bread](\recipes\breads\MonkeyBread.md)
--  [Pizza Dough](\recipes\breads\PizzaDough.md)
--  [Rye Bread](\recipes\breads\RyeBread.md)
--  [Seeded Rye](\recipes\breads\SeededRye.md)
+-  [Chocolate Chip Banana Nut Muffins](recipes/breads/ChocolateChopBananaNutMuffins.md)
+-  [Dinner Rolls](recipes/breads/DinnerRolls.md)
+-  [Monkey Bread](recipes/breads/MonkeyBread.md)
+-  [Pizza Dough](recipes/breads/PizzaDough.md)
+-  [Rye Bread](recipes/breads/RyeBread.md)
+-  [Seeded Rye](recipes/breads/SeededRye.md)
 
 ### Condiments
 
--  [Apple Butter](\recipes\condiments\AppleButter.md)
--  [Garlic Confit](\recipes\condiments\GarlicConfit.md)
--  [Teriyaki Sauce](\recipes\condiments\TeriyakiSauce.md)
+-  [Apple Butter](recipes/condiments/AppleButter.md)
+-  [Garlic Confit](recipes/condiments/GarlicConfit.md)
+-  [Teriyaki Sauce](recipes/condiments/TeriyakiSauce.md)
 
 ### Desserts
 
--  [Apple Cobbler (dutch oven)](\recipes\desserts\AppleCobbler.md) **A holiday favorite**
--  [Garlic & Ginger Snaps](\recipes\desserts\GarlicGingerSnaps.md)
--  [Overly Complex Chocolate Chip Cookies](\recipes\desserts\OverlyComplexChocolateChipCookies.md) **Currently in draft**
--  [Pralines](\recipes\desserts\Pralines.md)
+-  [Apple Cobbler (dutch oven)](recipes/desserts/AppleCobbler.md) **A holiday favorite**
+-  [Garlic & Ginger Snaps](recipes/desserts/GarlicGingerSnaps.md)
+-  [Overly Complex Chocolate Chip Cookies](recipes/desserts/OverlyComplexChocolateChipCookies.md) **Currently in draft**
+-  [Pralines](recipes/desserts/Pralines.md)
 
 ### Dishes
 
--  [Maple Mustard Chicken](\recipes\dishes\MapleMustardChicken.md) **Easy and well appreciated**
--  [Miso Vegetable Soup](\recipes\dishes\MisoSoup.md)
--  [Mississippi Pot Roast](\recipes\dishes\MississippiPotRoast.md) **Simple and filling**
+-  [Maple Mustard Chicken](recipes/dishes/MapleMustardChicken.md) **Easy and well appreciated**
+-  [Miso Vegetable Soup](recipes/dishes/MisoSoup.md)
+-  [Mississippi Pot Roast](recipes/dishes/MississippiPotRoast.md) **Simple and filling**
 
 ### Drinks
 
--  [Mulberry Shrub](\recipes\drinks\MulberryShrub.md)
+-  [Mulberry Shrub](recipes/drinks/MulberryShrub.md)
 
 ### Other
 
--  [Pizza Sauce](\recipes\other\PizzaSauce.md)
+-  [Pizza Sauce](recipes/other/PizzaSauce.md)
 
 ### Vegetables
 
--  [Brussels Sprouts in Balsamic Reduction](\recipes\vegetables\BrusselSproutsinBalsamicReduction.md)
+-  [Brussels Sprouts in Balsamic Reduction](recipes/vegetables/BrusselSproutsinBalsamicReduction.md)
