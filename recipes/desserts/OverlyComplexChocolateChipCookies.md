@@ -27,7 +27,7 @@ This recipe is purposely complex. That complexity however is reflected in flavor
 
 ### Roasted Sugar
 
-Roast sugar using the Stella Parks Roasted Sugar method<sub>4</sup>. In this process much more roasted sugar than is needed will be made for the recipe, but it is versatile and stores well. Don't attempt to scale down too far.
+Roast sugar using the Stella Parks Roasted Sugar method<sup>4</sup>. In this process much more roasted sugar than is needed will be made for the recipe, but it is versatile and stores well. Don't attempt to scale down too far.
 
 Roasted sugar should be prepared well ahead of the cookie recipe.
 
