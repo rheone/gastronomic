@@ -64,7 +64,7 @@ Toasted oat flour may be prepared ahead of cookie recipe
    -  Allow to rest for 3 to 5 minutes before and work again for approximately 30 seconds. Repeat rest and work a couple of times until mixture becomes thick, smooth, and glossy. This allows the sugar to properly dissolve in the mixture
 1. Combine flour mixture with wet ingredients until just combined
 1. Add **semisweet chocolate chunks** and **dark chocolate chips**
-1. **Allow dough to rest for at least 24 hours** in the refrigerator in an air tight container
+1. **Allow dough to rest for 12 to 24 hours** in the refrigerator in an air tight container
 
 ### Cookie Baking
 
