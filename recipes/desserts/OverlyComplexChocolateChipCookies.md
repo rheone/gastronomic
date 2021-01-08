@@ -1,7 +1,5 @@
 # Overly Complex Chocolate Chip Cookies
 
-**DRAFT** _2020-12-25_ - This recipe is under development, as such, even as far as internet recipes are concerned, it comes with fewer guarantees than most. The hope is to eventually find the right balance, but that will take some experimentation before that happens.
-
 These cookies are intended to satisfy brown sugar cravings as well as placate a bit of the desire for saltiness. They rely heavily on the Maillard reaction to find cookie bliss. Roasted sugar should build a nice structure and provide a non-overly sweet caramel/toffy flavor that compliments the Bourbon and with vanilla. Toasted oat flour provides both a hint of nuttiness and a silky-chewy texture that the brown sugar itself can't provide. A variety of texture and flavor is intended by using both chocolate chunks and chips. Finally, brown butter and a finishing of salt brings it all together. Note that the cookie dough is intended to rest for at least 12 to 24 hours before baking, this exercise in patience is worth it.
 
 This recipe is purposely complex. That complexity however is reflected in flavor, not the skills needed to make cookies. Yes, there are many steps, but not a one of them is difficult. Time, and intention are key ingredients to these Overly Complex Chocolate Chip Cookies. This recipe is heavily inspired by the works of J. Kenji López-Alt<sup>1</sup>, America's Test Kitchen<sup>2</sup> and Cooks Illustrated<sup>3</sup>.
@@ -21,6 +19,7 @@ This recipe is purposely complex. That complexity however is reflected in flavor
 -  1 large egg yolk
 -  4 oz semisweet chocolate chunks
 -  4 oz dark chocolate chips
+-  extra chocolate chunks/chips (for topping before baking)
 -  course finishing salt
 
 ## Preparation
@@ -51,7 +50,6 @@ Toasted oat flour may be prepared ahead of cookie recipe
 
 ### Cookie Dough
 
-1. Prepare 2 baking sheets with parchment
 1. Sift and whisk together **toasted oat flour**, **unbleached all-purpose flour**, and **baking soda**
 1. Prepare brown butter
    -  Melt 5 oz **unsalted butter** in a pan with on medium-low heat
@@ -62,18 +60,20 @@ Toasted oat flour may be prepared ahead of cookie recipe
    -  Combine cooled **brown butter**, **roasted sugar**, **dark brown sugar**, **salt**, **vanilla extract**, and **Bourbon**. Cream mixture until incorporated and no lumps remain
    -  Add **egg** and additional **egg yolk** to mixture and incorporate until smooth
    -  Allow to rest for 3 to 5 minutes before and work again for approximately 30 seconds. Repeat rest and work a couple of times until mixture becomes thick, smooth, and glossy. This allows the sugar to properly dissolve in the mixture
-1. Combine flour mixture with wet ingredients until just combined
-1. Add **semisweet chocolate chunks** and **dark chocolate chips**
+1. Add flour mixture in 2 stages to wet ingredients until just integrated
+1. Add measured **semisweet chocolate chunks** and **dark chocolate chips**
 1. **Allow dough to rest for 12 to 24 hours** in the refrigerator in an air tight container
 
 ### Cookie Baking
 
+1. Prepare 2-3 baking sheets with parchment
 1. Preheat oven to 375°F with a central oven rack
-1. Make dough balls from approximately 3 tbs each of cookie dough
+1. Make 24 dough balls of approximately 3 tbs each of cookie dough
 1. For added texture tear each dough ball in half and sticking sticking the smooth sides back together with the rough sides facing outward
-1. Bake one cookie sheet at a time for 10 to 14 minutes, rotating cookie sheet 180 degrees at the half way point
+1. Top dough balls with a few **extra chocolate chunks/chips** for flavor and presentation
+1. Bake one cookie sheet at a time for 12 to 14 minutes, rotating cookie sheet 180 degrees at the half way point in your not cooking in a convection oven
 1. Lightly sprinkle still warm cookies with a bit of **course finishing salt**
-1. Allow cookies to cool on a wire rack and store in an air tight container
+1. Allow to cool slightly and set before transferring cookies to finish cooling on a wire rack
 
 ## Footnotes
 
