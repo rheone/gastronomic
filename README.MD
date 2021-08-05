@@ -28,7 +28,7 @@ P.S. I'm happy to get Pull-Requests or Issues for corrections, updates, or even 
 ### Desserts
 
 -  [Apple Cobbler (dutch oven)](recipes/desserts/AppleCobbler.md) **A holiday favorite**
--  [Chocolate Cherry Cheesecake](recipes/dessertsChocolateCherryCheesecake.md)
+-  [Chocolate Cherry Cheesecake](recipes/desserts/ChocolateCherryCheesecake.md)
 -  [Garlic & Ginger Snaps](recipes/desserts/GarlicGingerSnaps.md)
 -  [Overly Complex Chocolate Chip Cookies](recipes/desserts/OverlyComplexChocolateChipCookies.md) **Currently in draft**
 -  [Pralines](recipes/desserts/Pralines.md)
