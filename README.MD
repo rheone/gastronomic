@@ -45,6 +45,7 @@ P.S. I'm happy to get Pull-Requests or Issues for corrections, updates, or even 
 
 ### Other
 
+-  [Dutch Baby](recipes/other/DutchBaby.md)
 -  [Pizza Sauce](recipes/other/PizzaSauce.md)
 
 ### Vegetables
