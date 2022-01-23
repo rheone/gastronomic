@@ -2,26 +2,27 @@
 
 ## Ingredient
 
--  3 Eggs (Room Temperature)
--  1/2 Cup Milk (Room Temperature)
--  1 Tbs Sugar
--  1 Tsp Vanilla Extract
--  1/2 Cup Bread Flour
--  4 Tbs Unsalted Butter
+-  3 Eggs (room temperature)
+-  1/2 cup Milk (room temperature)
+-  1 tbs Sugar
+-  1 tsp Vanilla Extract
+-  pinch Salt
+-  1/2 cup Bread Flour
+-  4 tbs Unsalted Butter (cubed)
 
 ### Possible Toppings
 
--  Fruit (Berries, Or Berry Sized Chunks Of Your Favorite Fruit) _(Optional)_
--  Powdered Sugar _(Optional)_
--  Syrup _(Optional)_
--  Cinnamon _(Optional)_
+-  Fruit (berries, or berry sized chunks of your favorite fruit) _(optional)_
+-  Powdered Sugar _(optional)_
+-  Syrup / Honey _(optional)_
+-  Cinnamon _(optional)_
 
 ## Preparation
 
-1. Preheat Oven And A 9 Inch Skillet To 425° F
-1. Combine Eggs, Milk, Sugar, Vanilla, And Milk In A Blender Until Smooth
-1. Add Butter To Preheated Skillet
-1. Once Butter Has Melted Add Mixture To Skillet
-1. Bake For Approximately 20 Minutes Or Until Puffed And Nicely Browned
-1. Lower Oven Temperature To 300° F To Allow Dutch Baby To Set And Bake For 5 Additional Minutes
-1. Remove From Oven And Top With Desired Toppings And Server
+1. Preheat oven and a 9 inch skillet to 425° F
+1. Combine eggs, milk, sugar, vanilla, milk, and salt in a blender until smooth
+1. Add butter to preheated skillet
+1. Once butter has melted add mixture to skillet
+1. Bake for approximately 20 minutes or until puffed and nicely browned
+1. Lower oven temperature to 300° F and allow dutch baby to set and bake for 5 additional minutes
+1. Remove from oven and top with desired toppings and server
