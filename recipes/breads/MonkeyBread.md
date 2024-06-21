@@ -2,14 +2,14 @@
 
 ## Ingredients
 
--  3 (12 oz) pks refrigerator biscuits
--  1 c white sugar
--  2 tsp cinnamon
--  1 tsp ginger powder
--  1/2 c butter
--  1 c brown sugar
--  1/2 c chopped nuts (optional)
--  1/2 c raisins (optional)
+- 3 (12 oz) pks refrigerator biscuits
+- 1 c white sugar
+- 2 tsp cinnamon
+- 1 tsp ginger powder
+- 1/2 c butter
+- 1 c brown sugar
+- 1/2 c chopped nuts (optional)
+- 1/2 c raisins (optional)
 
 ## Preparation
 

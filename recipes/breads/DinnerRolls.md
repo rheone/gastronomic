@@ -2,19 +2,19 @@
 
 ## Ingredients
 
--  2 cups all-purpose flour, or more if needed
--  1 envelope Active Yeast
--  2 tablespoons sugar
--  1/2 teaspoon salt
--  1/2 cup milk
--  1/4 cup water
--  2 tablespoons butter
+- 2 cups all-purpose flour, or more if needed
+- 1 envelope Active Yeast
+- 2 tablespoons sugar
+- 1/2 teaspoon salt
+- 1/2 cup milk
+- 1/4 cup water
+- 2 tablespoons butter
 
 ## Preparation
 
 1. Combine 3/4 cup flour, undissolved yeast, sugar and salt in a large bowl.
 1. Heat milk, water and butter until very warm (120 degrees to 130 degrees F).
-1.  Add milk mixture to flour mixture.
+1. Add milk mixture to flour mixture.
 1. Beat 2 minutes at medium speed of electric mixer, scraping bowl occasionally.
 1. Add 1/4 cup flour; beat 2 minutes at high speed. Stir in enough remaining flour to make soft dough.
 1. Knead on lightly floured surface until smooth and elastic, about 8 to 10 minutes.
