@@ -47,7 +47,7 @@ P.S. I'm happy to get Pull-Requests or Issues for corrections, updates, or even 
 - [Overly Complex Chocolate Chip Cookies](recipes/desserts/OverlyComplexChocolateChipCookies.md) **Currently in draft**
 - [Pralines](recipes/desserts/Pralines.md)
 
-### Dishes
+### Entrees
 
 - [Maple Mustard Chicken](recipes/dishes/MapleMustardChicken.md) **Easy and well appreciated**
 - [Miso Vegetable Soup](recipes/dishes/MisoSoup.md)
