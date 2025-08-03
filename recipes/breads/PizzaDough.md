@@ -4,11 +4,11 @@ Based on <http://www.geniuskitchen.com/recipe/wood-fired-oven-pizza-dough-288937
 
 ## Ingredients
 
--  2 cups warm water
--  1 tablespoon dry yeast
--  1 tablespoon salt
--  1 tablespoon honey
--  5 cups all purpose flour (+/-)
+* 2 cups warm water
+* 1 tablespoon dry yeast
+* 1 tablespoon salt
+* 1 tablespoon honey
+* 5 cups all purpose flour (+/-)
 
 ## Preparation
 
