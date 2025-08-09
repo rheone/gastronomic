@@ -65,26 +65,27 @@ P.S. I'm happy to get Pull-Requests or Issues for corrections, updates, or even 
 
 #### Brewing
 
-- Apple Ale - _to be digitized in the future_
-- [Apple Ale (Reserve)](brewing/beer/Apple_Ale_(Reserve).md)
-- Autumn Oxycoccus Saison - _to be digitized in the future_
-- [Botata Brew (Golden Sweet Potato Ale)](brewing/beer/Botata_Brew_(Golden_Sweet_Potato_Ale).md)
-- Brambly Barley Wine - _to be digitized in the future_
-- [Buzz Worthy Honey Porter](brewing/beer/Buzz_Worthy_Honey_Porter.md)
-- [Cherry Vanilla Stout](brewing/beer/Cherry_Vanilla_Stout.md)
-- [Chocolate Breakfast Stout](brewing/beer/Chocolate_Breakfast_Stout.md)
-- Chocolate Peanut-butter Milk Stout
-- [Coffee & Cream Stout](brewing/beer/Coffee_&_Cream_Stout.md)
-- [Heav(nl)y Maple Ale](brewing/beer/Heav(nl)y_Maple_Ale.md)
-- Lambic - _to be digitized in the future_
-- [Malted Sour Apple Cider](brewing/beer/Malted_Sour_Apple_Cider.md)
-- Oaken Bourbon Porter - _to be digitized in the future_
-- Pumpkin Pie Cream Ale - _to be digitized in the future_
-- [Red Headed Step-Child](brewing/beer/Red_Headed_Step-Child.md)
+- [Apple Ale](<recipes/brewing/beer/Apple Ale.md>)
+  - [Apple Ale (Reserve)](<recipes/brewing/beer/Apple Ale (Reserve).md>)
+- [Autumn Oxycoccus Saison](<recipes/brewing/beer/Autumn Oxycoccus Saison.md>)
+- [Botata Brew (Golden Sweet Potato Ale)](<recipes/brewing/beer/Botata Brew (Golden Sweet Potato Ale).md>)
+- [Brambly Barley Wine](<recipes/brewing/beer/Brambly Barley Wine.md>)
+- [Buzz Worthy Honey Porter](<recipes/brewing/beer/Buzz Worthy Honey Porter.md>)
+- [Cherry Vanilla Stout](<recipes/brewing/beer/Cherry Vanilla Stout.md>)
+- [Chocolate Breakfast Stout](<recipes/brewing/beer/Chocolate Breakfast Stout.md>)
+- [Chocolate Peanut Butter Milk Stout](<recipes/brewing/beer/Chocolate Peanut Butter Milk Stout.md>)
+- [Coffee & Cream Stout](<recipes/brewing/beer/Coffee & Cream Stout.md>)
+- [Heav(nl)y Maple Ale](<recipes/brewing/beer/Heav(nl)y Maple Ale.md>)
+- [Lambic](<recipes/brewing/beer/Lambic.md>)
+- [Malted Sour Apple Cider](<recipes/brewing/beer/Malted Sour Apple Cider.md>)
+- [Oaken Bourbon Porter](<recipes/brewing/beer/Oaken Bourbon Porter.md>)
+- [Pumpkin Pie Cream Ale](<recipes/brewing/beer/Pumpkin Pie Cream Ale.md>)
+- [Red Headed Step-Child](<recipes/brewing/beer/Red Headed Step-Child.md>)
+- [Wildflower Weizen](<recipes/brewing/beer/Wildflower Weizen.md>)
 
 #### Brewing Other
 
-- [Rock Brewing Candi](brewing/beer/Rock_Brewing_Candi.md)
+- [Rock Brewing Candi](<recipes/brewing/beer/Rock Brewing Candi.md>)
 - [Spent Grain no knead bread](recipes/breads/Spent_Grain_no_knead_bread.md)
 
 ### Uncategorized
